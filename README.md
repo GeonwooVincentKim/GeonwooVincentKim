@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
 
-- 🔭 I’m currently working on **COVID-19 Application**
+- 🔭 I’m currently working on **XenoImpact**
 
 - 🌱 I’m currently learning **HTML CSS JS & Flutter & Kotlin & Spring & ML (Machine Learning)**
 
-- 👯 I’m looking to collaborate on **Xenoimpact**
+- 👯 I’m looking to collaborate on **XenoImpact**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeonwooVincentKim/](https://github.com/GeonwooVincentKim/)
 
