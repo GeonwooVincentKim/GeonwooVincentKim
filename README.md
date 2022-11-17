@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdsnop)](https://solved.ac/kdsnop)
 
 - 🔭 I’m currently working on **Xenoimpact**
 
