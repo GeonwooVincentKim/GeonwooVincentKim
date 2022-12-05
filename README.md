@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **kdsnop@gmail.com**
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdsnop)](https://solved.ac/kdsnop)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunwoo kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunwoo kim" height="30" width="40" /></a>
