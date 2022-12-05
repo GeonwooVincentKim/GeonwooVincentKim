@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://cafe.daum.net/vincentarnold](https://cafe.daum.net/vincentarnold)
 
-- 💬 Ask me about **Vue.js, Spring, HTML CSS JS, Flutter**
+- 💬 Ask me about **Flutter & Vue.js & Python**
 
 - 📫 How to reach me **kdsnop@gmail.com**
 
