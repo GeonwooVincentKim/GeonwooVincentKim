@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Xenoimpact](https://www.xenoimpact.com/)
 
-- 🌱 I’m currently learning **Flutter & Python**
+- 🌱 I’m currently learning **Flutter & Spring Boot**
 
 - 👯 I’m looking to collaborate on **Xenoimpact**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://cafe.daum.net/vincentarnold](https://cafe.daum.net/vincentarnold)
 
-- 💬 Ask me about **Flutter & Vue.js & Python**
+- 💬 Ask me about **Flutter & Vue.js & Spring Boot**
 
 - 📫 How to reach me **kdsnop@gmail.com**
 
