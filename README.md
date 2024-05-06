@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
 
-- 🔭 I’m currently working on [Xenoimpact](https://www.xenoimpact.com/)
+- 🔭 I’m currently working on [42Tokyo](https://42tokyo.jp/)
 
 - 🌱 I’m currently learning **Flutter & Spring Boot**
 
