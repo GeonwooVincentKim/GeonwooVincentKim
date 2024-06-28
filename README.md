@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vincent K.Arnold (Geonwoo Kim)</h1>
 <h3 align="center">A one of the Full-Stack Developer who is very cool and happy man</h3>
 
+[![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geonwoovincentkim&label=Profile%20views&color=0e75b6&style=flat" alt="geonwoovincentkim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
-
-[![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
 
 - 🔭 I’m currently studying at [42Tokyo](https://42tokyo.jp/)
 
