@@ -3,6 +3,11 @@
 
 [![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
 
+ Name  | Score | Github Repo Link |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geonwoovincentkim&label=Profile%20views&color=0e75b6&style=flat" alt="geonwoovincentkim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
