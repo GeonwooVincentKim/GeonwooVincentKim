@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geonwoovincentkim" alt="geonwoovincentkim" /></a> </p>
 
-- 🔭 I’m currently working on [42Tokyo](https://42tokyo.jp/)
+[![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
+
+- 🔭 I’m currently studying at [42Tokyo](https://42tokyo.jp/)
 
 - 🌱 I’m currently learning **Flutter & Spring Boot**
 
