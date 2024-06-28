@@ -2,6 +2,7 @@
 <h3 align="center">A one of the Full-Stack Developer who is very cool and happy man</h3>
 
 [![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
+[![geonwkim's 42 stats](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/stats?cursusId=9&coalitionId=61)](https://github.com/Coday-meric/badge42)
 
  Name  | Score | Github Repo Link |
 | ------------- | ------------- | ------------- |
