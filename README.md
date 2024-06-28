@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Flutter & Spring Boot**
 
-- 👯 I’m looking to collaborate on **Xenoimpact**
+- 👯 I’m looking to collaborate on **42 Tokyo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeonwooVincentKim/](https://github.com/GeonwooVincentKim/)
 
