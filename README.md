@@ -5,8 +5,12 @@
 
  Name  | Score | Github Repo Link |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| 02-Push-Swap  | [![geonwkim's 42 push_swap Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3666431)](https://github.com/Coday-meric/badge42)  | [42-Push-Swap](https://github.com/GeonwooVincentKim/42-Push-Swap)  |
+| 02-Mini-Talk  | [![geonwkim's 42 minitalk Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3665857)](https://github.com/Coday-meric/badge42)  | [42-minitalk-06](https://github.com/GeonwooVincentKim/42-minitalk-06)  |
+| 01-Born2beroot  | [![geonwkim's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3651111)](https://github.com/Coday-meric/badge42)  | You just need to submit signatures.txt file  |
+| 01-Get-Next-Line  | [![geonwkim's 42 get_next_line Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3651089)](https://github.com/Coday-meric/badge42)  | [42-get_next_line](https://github.com/GeonwooVincentKim/42-get_next_line)  |
+| 02-Mini-Talk  | [![geonwkim's 42 minitalk Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3665857)](https://github.com/Coday-meric/badge42)  | [42-minitalk-06](https://github.com/GeonwooVincentKim/42-minitalk-06)  |
+| 02-Mini-Talk  | [![geonwkim's 42 minitalk Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3665857)](https://github.com/Coday-meric/badge42)  | [42-minitalk-06](https://github.com/GeonwooVincentKim/42-minitalk-06)  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geonwoovincentkim&label=Profile%20views&color=0e75b6&style=flat" alt="geonwoovincentkim" /> </p>
 
