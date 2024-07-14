@@ -6,6 +6,7 @@
 
  Name  | Score | Github Repo Link |
 | ------------- | ------------- | ------------- |
+| 03-Philosophers  | [![geonwkim's 42 Philosophers Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3749565)](https://github.com/Coday-meric/badge42)  | [42-Philosophers](https://github.com/GeonwooVincentKim/42-So-Long)  |
 | 02-So-Long  | [![geonwkim's 42 so_long Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3680139)](https://github.com/Coday-meric/badge42)  | [42-So_Long](https://github.com/GeonwooVincentKim/42-So-Long)  |
 | Exam02 | [![geonwkim's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3665855)](https://github.com/Coday-meric/badge42)  | [Exam 02](https://github.com/GeonwooVincentKim/42-Push-Swap)  |
 | 02-Push-Swap  | [![geonwkim's 42 push_swap Score](https://badge42.coday.fr/api/v2/clxybufnz356001p44qyugxf0/project/3666431)](https://github.com/Coday-meric/badge42)  | [42-Push-Swap](https://github.com/GeonwooVincentKim/42-Push-Swap)  |
